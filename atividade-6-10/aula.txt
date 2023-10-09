@@ -1,0 +1,21 @@
+
+* Revisar o que vimos dia 05 com atividade=>
+Antes de começar vá até a branch "resolve" e crie uma branch com o seu nome
+para iniciar a atividade!
+
+PAra aceitar arquivos, multipart
+instalar multer
+npm install multer
+
+
+https://github.com/mucasantos/full-ecomm
+git checkout -b "seunome"
+
+Os arquivos necessários estão na pasta atividade-6-10
+
+1. Criar as rotas de Produtos:
+    /products => irá mostrar todos os produtos
+    /products/new => para adicionar um produto 
+    (Rota GET para mostrar a view com formulário)
+    (ROta POST que vai gravar o produto no arquivo JSON)
+    Salvar o Produto no arquivo

@@ -1,0 +1,35 @@
+Modelando os dados
+Usuários
+Produtos
+
+Implementando o UsersRepository
+O Repository Pattern é baseado na ideia de que o código de acesso a dados deve ser separado 
+do código de lógica de negócios. O Repository Pattern fornece uma maneira de gerenciar 
+o código de acesso a dados em um local centralizado, reduzindo assim a duplicação de código 
+e melhorando a capacidade de manutenção do código.
+(https://dev.to/thanasismpalatsoukas/repository-pattern-with-javascript-4nl) 
+
+28 e 29 de Setembro
+* Exercícios lógica/Arrays
+
+05 e 06 de outubro
+* Exportando a classe para reutilização (extends)
+* Herança em Javascript
+* Templates  HTML (MVC)
+* Serviu o html com css externamente
+* Pegar os dados de usuario e salvar em BD
+
+* Lógica getOneBy ( Javascript in/of)
+* Logica de Sign-in
+    -> Lógica com os if/filtro
+    -> Login com cookie (testar com o site: https://3.basecamp.com/)
+        Fluxo com o nodejs
+    -> Grande problema de segurança! => senhas salvas em texto comum...
+        Adicionando Salt ao Hashing
+* Implementando a autenticação com hashing e Salt
+
+19 e 20 de outubro
+*Trabalhar na tela de Produtos
+
+
+*Upload de arquivos

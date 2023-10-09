@@ -1,0 +1,32 @@
+[
+    {
+        "email": "sam@email.com",
+        "password": "gjhjkghdsk",
+        "passwordConfirmation": "gdjkgjdlskfj",
+        "id": "e9925d2f"
+    },
+    {
+        "email": "maria@email.com",
+        "password": "maria",
+        "passwordConfirmation": "maria",
+        "id": "001b3a83"
+    },
+    {
+        "email": "jujuba@email.com",
+        "password": "jujubinha",
+        "passwordConfirmation": "jujubinha",
+        "id": "294f75da"
+    },
+    {
+        "email": "fsdfsdfsdf",
+        "password": "fsfsdfsfds",
+        "passwordConfirmation": "fsfsfds",
+        "id": "044e3468"
+    },
+    {
+        "email": "murilo",
+        "password": "murilo",
+        "passwordConfirmation": "muriolo",
+        "id": "d2e645d8"
+    }
+]
